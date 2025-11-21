@@ -1,2 +1,1 @@
-# Enntec_ODE_mk3
-Integration for Home Assistant.
+# ODE mk3 ArtNet Integration
